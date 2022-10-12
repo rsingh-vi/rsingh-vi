@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravinder Singh
 - 👀 I’m interested in Javascript and ReactJs
-- 🌱 I’m currently working in ReactJs
+- 🌱 I’m currently working as React Js Developer
 
 
 <!---
